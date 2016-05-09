@@ -1,0 +1,99 @@
+blue
+green
+silver
+brown
+lavender
+lilac
+orange
+red
+cyan
+lime
+magenta
+blue and green
+blue and silver
+blue and brown
+blue and lavender
+blue and lilac
+blue and orange
+blue and red
+blue and cyan
+blue and lime
+blue and magenta
+blue
+green
+silver
+brown
+lavender
+lilac
+orange
+red
+cyan
+lime
+magenta
+green and silver
+green and brown
+green and lavender
+green and lilac
+green and orange
+green and red
+green and cyan
+green and lime
+green and magenta
+silver and brown
+silver and lavender
+silver and lilac
+silver and orange
+silver and red
+silver and cyan
+silver and lime
+silver and magenta
+brown and lavender
+brown and lilac
+brown and orange
+brown and red
+brown and cyan
+brown and lime
+brown and magenta
+blue
+green
+silver
+brown
+lavender
+lilac
+orange
+red
+cyan
+lime
+magenta
+lavender and lilac
+lavender and orange
+lavender and red
+lavender and cyan
+lavender and lime
+lavender and magenta
+lilac and orange
+lilac and red
+lilac and cyan
+lilac and lime
+lilac and magenta
+orange and red
+orange and cyan
+orange and lime
+orange and magenta
+blue
+green
+silver
+brown
+lavender
+lilac
+orange
+red
+cyan
+lime
+magenta
+red and cyan
+red and lime
+red and magenta
+cyan and lime
+cyan and magenta
+lime and magenta
